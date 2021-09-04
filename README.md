@@ -22,7 +22,7 @@ ________
 Учебная документация:
 * [Расписание занятий](Timetable.md#Расписание)
 * [Список группы](GroupList.md)
-* 
+
 Учебные ссылки:
 * [Сайт СПбГТИ](http://technolog.edu.ru/)
 * [Учебный план(2019г)](http://technolog.edu.ru/files/75/sveden/eduOp/09.03.01_2019_SAPR/09.03.01_2019_UP.plx.pdf)
