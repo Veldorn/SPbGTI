@@ -23,8 +23,7 @@
 
 ### Экзамены
 
-* **Э** [Анализ и проектирование на UML](Subjects/UML.md)
-* **Э** [Администрирование в ОС Linux](Subjects/LinuxAdministration.md)
-* **Э** [Машинное обучение](Subjects/MachineLearning.md)
-* **Э** [Прикладная математика](Subjects/AppliedMathematics.md)
-* **$** [История |>]()
+* **Э** [Программирование](Subjects/Programming.md)
+* **Э** [Математический анализ](Subjects/MathematicalAnalysis.md)
+* **Э** [Алгебра и геометрия](Subjects/Algebra&Geometry.md)
+* **Э** [Химия](Subjects/Chemistry.md)
