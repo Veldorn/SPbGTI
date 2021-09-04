@@ -30,6 +30,8 @@ ___________
 ___________
 ### Лабы
 
+[Варианты]()
+
 [Контрольные работы](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Kонтрольные_работы.pdf)
 
 [Требования к оформлению контрольных работ](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Требования%20к%20оформлению%20ВКР.pdf)
