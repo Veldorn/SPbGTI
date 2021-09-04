@@ -20,10 +20,3 @@
 | 2. 11:30 - 13:10| **Эл. курс** [Физическая культура]() *каф. Физ. воспитания* | **Л** [Математический анализ](Subjects/MathematicalAnalysis.md) *7-413* |  **Л** [Алгебра и геометрия](Subjects/Algebra&Geometry.md) *7-401* | **Л/П** [Иностранный язык]() *7-228 каф. Ин.яз.* | **П** [Информатика](Subjects/ComputerScience.md) *каф. САПРиУ*|
 | 3. 14:00 - 15:40| | **П** [Математический анализ](Subjects/MathematicalAnalysis.md) *7-319* | **П** [Алгебра и геометрия](Subjects/Algebra&Geometry.md) *7-119*| **П** [Химия](Subjects/Chemistry.md) *каф. Физ. химии* | **Л** [Информатика](Subjects/ComputerScience.md) *каф. САПРиУ*|
 
-
-### Экзамены
-
-* **Э** [Программирование](Subjects/Programming.md)
-* **Э** [Математический анализ](Subjects/MathematicalAnalysis.md)
-* **Э** [Алгебра и геометрия](Subjects/Algebra&Geometry.md)
-* **Э** [Химия](Subjects/Chemistry.md)
