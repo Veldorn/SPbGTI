@@ -23,7 +23,6 @@ ________
 * [Расписание занятий](Timetable.md#Расписание)
 * [Схема корпусов](http://technolog.edu.ru/contacts/karta.html)
 * [Список группы](GroupList.md)
-* [Список экзаменов](Timetable.md#Экзамены)
 * [Учебный план(2019г)](http://technolog.edu.ru/files/75/sveden/eduOp/09.03.01_2019_SAPR/09.03.01_2019_UP.plx.pdf)
 
 Учебные ссылки:
