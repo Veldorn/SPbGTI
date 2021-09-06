@@ -30,7 +30,7 @@ ___________
 ___________
 ### Лабы
 
-[Варианты]()
+[Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
 
 [Контрольные работы](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Kонтрольные_работы.pdf)
 
