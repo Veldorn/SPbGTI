@@ -21,5 +21,7 @@ _________
 ## Практика
 
 [Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
+
+[ИДЗ 1 (до 14.09)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/ИДЗ%201.pdf)
 __________
 
