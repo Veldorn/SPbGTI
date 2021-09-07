@@ -16,5 +16,9 @@ ___________
 [**Экзаменационные вопросы**]()
 _________
 ## Лекции
+
 [Первая методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/Методичка%201.pdf)
 _________
+## Практика
+
+[Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
