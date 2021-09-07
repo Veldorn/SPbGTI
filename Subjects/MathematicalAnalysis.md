@@ -22,3 +22,4 @@ _________
 ## Практика
 
 [Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
+___________
