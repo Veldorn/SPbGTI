@@ -10,10 +10,10 @@ ___________
 ___________
 ### Лекции
 [Лекции](https://github.com/Veldorn/SPbGTI/blob/main/Files/HistoryCS%26CH/Лекции%20.pdf)
-
-[Семинары](https://github.com/Veldorn/SPbGTI/blob/main/Files/HistoryCS%26CH/Семинары.pdf)
 ___________
 ### Практика
+[Семинары](https://github.com/Veldorn/SPbGTI/blob/main/Files/HistoryCS%26CH/Семинары.pdf)
+
 [Пример презентации](https://github.com/Veldorn/SPbGTI/blob/main/Files/HistoryCS%26CH/презентация.ppt)
 
 [Еще пример](https://github.com/Veldorn/SPbGTI/blob/main/Files/HistoryCS%26CH/Fortran.pptx)
