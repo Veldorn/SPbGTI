@@ -36,5 +36,5 @@ ___________
 
 [Требования к оформлению контрольных работ](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Требования%20к%20оформлению%20ВКР.pdf)
 
-[Шаблон отчета по контрольной работе](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Шаблон_отчёта_по_контрольной_работе_САПР_V4.docx)
+[Шаблон отчета по контрольной работе](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Шаблон_отчёта_по_контрольной_работе_САПР_V5.docx)
 ___________
