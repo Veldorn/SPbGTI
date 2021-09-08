@@ -21,5 +21,7 @@ _________
 _________
 ## Практика
 
+[Задачник](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/berman.pdf)
+
 [Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
 ___________
