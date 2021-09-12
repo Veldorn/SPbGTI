@@ -9,7 +9,7 @@ ________
 * **Э** [Алгебра и геометрия](Subjects/Algebra%26Geometry.md)
 * **Э** [Информатика](Subjects/ComputerScience.md)
 * **=** [Химия](Subjects/Chemistry.md)
-* **=** [Основы Права](Subjects/LawBasics.md)
+* **=** [Основы права](Subjects/LawBasics.md)
 * **=** [История и перспективы развития информатики и вычислительной техники](Subjects/HistoryCS%26CH.md)
 * **=** [Иностранный язык]()
 * **=** [Физическая культура]()
