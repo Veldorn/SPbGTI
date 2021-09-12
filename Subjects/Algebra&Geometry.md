@@ -22,6 +22,6 @@ _________
 
 [Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
 
-[ИДЗ 1 (до 14.09)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/ИДЗ%201.pdf)
+[ИДЗ 1 (на 14.09)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/ИДЗ%201.pdf)
 __________
 
