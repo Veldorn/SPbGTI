@@ -17,7 +17,7 @@ _________
 _________
 ## Практика
 
-[Дз 1](https://github.com/Veldorn/SPbGTI/blob/main/Files/Chemistry/Химия%20дз%201.pdf)
+[Дз 1 (на 23.09)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Chemistry/Химия%20дз%201.pdf)
 
 [Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
 ___________
