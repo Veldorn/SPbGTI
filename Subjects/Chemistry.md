@@ -21,6 +21,8 @@ _________
 
 [Дз 1 (на 23.09)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Chemistry/Химия%20дз%201.pdf)
 
+[Допуск к кр1 (на 7.10 и 21.10)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Chemistry/Химия%20допуск%20к%20кр1.jpg)
+
 [Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
 ___________
 
