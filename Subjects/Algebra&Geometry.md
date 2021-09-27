@@ -16,7 +16,8 @@ ___________
 [**Экзаменационные вопросы**]()
 _________
 ## Лекции
-[Первая методичка(частичная)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/Методичка%201(частичная).pdf)
+[Первая методичка(частичная)?](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/Методичка%201(частичная).pdf)
+[Вторая методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka2.pdf)
 _________
 ## Практика
 
