@@ -17,7 +17,7 @@ ___________
 _________
 ## Лекции
 
-[Первая методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/Методичка%201.pdf)
+[Первая методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka1.pdf)
 _________
 ## Практика
 
