@@ -24,6 +24,8 @@ ___________
 
 [Справка по Си](https://en.cppreference.com/w/c)
 
+[Справка по утечкам памяти](https://m.youtube.com/watch?v=1stQbTuUBIE) 
+
 [C_11 Standart](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/С11_Standart.pdf)
 
 [C_17 Standart](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/C17_Standart_Draft.pdf)
