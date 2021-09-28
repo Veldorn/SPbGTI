@@ -18,6 +18,10 @@ _________
 ## Лекции
 
 [Первая методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka1.pdf)
+
+[Вторая методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka2.pdf)
+
+[Третья методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka3.pdf)
 _________
 ## Практика
 
