@@ -32,7 +32,13 @@ ___________
 _________
 ## Лекции
 
-**coming soon**
+[Лекция 1](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Лекция%201.pdf)
+
+[Лекция 2](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Лекция%202.pdf)
+
+[Лекция 3](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Лекция%203.pdf)
+
+[Лекция 4](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Лекция%204.pdf)
 ___________
 ### Лабы
 
