@@ -19,6 +19,8 @@ _________
 [Первая методичка(частичная)?](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/Методичка%201(частичная).pdf)
 
 [Вторая методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka2.pdf)
+
+[Третья методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka3.pdf)
 _________
 ## Практика
 
