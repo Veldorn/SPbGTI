@@ -30,7 +30,7 @@ ___________
 
 [C_17 Standart](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/C17_Standart_Draft.pdf)
 _________
-## Лекции
+### Лекции
 
 [Лекция 1](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Лекция%201.pdf)
 
