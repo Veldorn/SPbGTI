@@ -18,8 +18,13 @@ _________
 
 [Дз 2 (на 29.09)](https://github.com/Veldorn/SPbGTI/blob/main/Files/LawBasics/Право%20дз%202.png)
 
+[Дз 3 (на 13.10)](https://github.com/Veldorn/SPbGTI/blob/main/Files/LawBasics/Право%20дз%203.png)
+
 [Семинары](https://github.com/Veldorn/SPbGTI/blob/main/Files/LawBasics/Osnovy_prava_Seminary.pdf)
 
 [Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
 ___________
+## Методические материалы
+
+[Поправки в конституцию](https://github.com/Veldorn/SPbGTI/blob/main/Files/LawBasics/Поправки%20в%20Конституцию.pdf)
 
