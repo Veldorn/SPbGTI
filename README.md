@@ -8,7 +8,7 @@ ________
 * **Э** [Математический анализ](Subjects/MathematicalAnalysis.md)
 * **Э** [Алгебра и геометрия](Subjects/Algebra%26Geometry.md)
 * **Э** [Информатика](Subjects/ComputerScience.md)
-* **=** [Химия](Subjects/Chemistry.md)
+* **Э** [Химия](Subjects/Chemistry.md)
 * **=** [Основы права](Subjects/LawBasics.md)
 * **=** [История и перспективы развития информатики и вычислительной техники](Subjects/HistoryCS%26CH.md)
 * **=** [Иностранный язык](https://t.me/joinchat/d1iGGmV8-5w3ZmZi)
