@@ -41,6 +41,10 @@ _________
 [Лекция 4](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Лекция%204.pdf)
 
 [Лекция 5](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Лекция%205.pdf)
+
+[Лекция 6](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Лекция%206.pdf)
+
+[Лекция 7](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Лекция%207.pdf)
 ___________
 ### Лабы
 
