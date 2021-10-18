@@ -18,6 +18,10 @@ ___________
 
 [Еще пример](https://github.com/Veldorn/SPbGTI/blob/main/Files/HistoryCS%26CH/Fortran.pptx)
 
+[Дз на 25.10](https://github.com/Veldorn/SPbGTI/blob/main/Files/HistoryCS%26CH/Doc1.docx)
+
+[Презентация с лекции 18.10](https://github.com/Veldorn/SPbGTI/blob/main/Files/HistoryCS%26CH/История%20и%20перспективы%20развития%20информатики%20и%20вычислительной%20техники%20Лекция%203.pptx)
+
 ___________
 ### Полезные ссылки
 
