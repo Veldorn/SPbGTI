@@ -25,4 +25,6 @@ _________
 
 [Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
 ___________
+## Лабораторные работы
 
+[Допуск к 3 лабораторной работе](https://github.com/Veldorn/SPbGTI/blob/main/Files/Chemistry/Допуск%20к%20лаб.3.jpg)
