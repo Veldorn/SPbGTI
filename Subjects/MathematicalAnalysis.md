@@ -27,5 +27,7 @@ _________
 
 [Задачник](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/berman.pdf)
 
+[ИДЗ 2 на 09.11](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/ИДЗ%201.pdf)
+
 [Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
 ___________
