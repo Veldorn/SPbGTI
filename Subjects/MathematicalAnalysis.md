@@ -17,11 +17,17 @@ ___________
 _________
 ## Лекции
 
-[Первая методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka1.pdf)
+[Первая методичка (Основные понятия)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka1.pdf)
 
-[Вторая методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka2.pdf)
+[Вторая методичка (Односторонние пределы и непрерывность)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka2.pdf)
 
-[Третья методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka3.pdf)
+[Третья методичка (Продолжение: Диффференцирование функции)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka3.pdf)
+
+[Четвертая методичка (Продолжение: Иследование функции и построение графика)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka4.pdf)
+
+[Пятая методичка (Неопределенный интеграл)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka5.pdf)
+
+[Шестая методичка (Интегрирование рациональных дробей)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka6.pdf)
 _________
 ## Практика
 
