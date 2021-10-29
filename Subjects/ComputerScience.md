@@ -8,12 +8,10 @@ ___________
 
 Козлов Андрей Васильевич
 
-[**Экзаменационные вопросы (временно недоступно)**](https://github.com/Veldorn/SPbGTI/blob/main/Files/ComputerScience/Лекции.png)
+[**Экзаменационные вопросы (временно недоступно)**]()
 ___________
 _________
 ### Лекции
-
-[Лекции](https://github.com/Veldorn/SPbGTI/blob/main/Files/ComputerScience/Лекции.png)
 ___________
 ### Практика
 
