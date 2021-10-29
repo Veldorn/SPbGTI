@@ -17,10 +17,14 @@ _________
 ___________
 ### Практика
 
-*Практическая работа 1 (эксель)*
+*Практическая работа 1 (Excel)*
 
 [Пример правильных диаграмм](https://github.com/Veldorn/SPbGTI/blob/main/Files/ComputerScience/Примеры%20диаграмм.png)
 
 [Пункты отчета](https://github.com/Veldorn/SPbGTI/blob/main/Files/ComputerScience/Пункты%20отчета.png)
+
+*Практическая работа 1 (Access)*
+
+[Вся информация для 3 работы, которая есть на данный момент](https://github.com/Veldorn/SPbGTI/blob/main/Files/ComputerScience/Практическая%20работа%203.txt)
 ___________
 
