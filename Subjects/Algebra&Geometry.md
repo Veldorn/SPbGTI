@@ -20,7 +20,11 @@ _________
 
 [Вторая методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka2.pdf)
 
-[Третья методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka3.pdf)
+[Третья методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka3Full.pdf)
+
+[Методичка (комплексные числа)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichkaP21Complex.pdf)
+
+[Методичка (многочлены)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichkaP22Polynomial.pdf)
 _________
 ## Практика
 
