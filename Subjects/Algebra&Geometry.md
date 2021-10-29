@@ -18,13 +18,13 @@ _________
 ## Лекции
 [Первая методичка(частичная)? (Векторы)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/Методичка%201(частичная).pdf)
 
-[Вторая методичка (Векторное пространство векторов](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka2.pdf)
+[Вторая методичка (Векторное пространство векторов)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka2.pdf)
 
-[Третья методичка (Вещественное линейное пространство](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka3Full.pdf)
+[Третья методичка (Вещественное линейное пространство)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka3Full.pdf)
 
-[Методичка (комплексные числа)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichkaP21Complex.pdf)
+[Методичка (Комплексные числа)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichkaP21Complex.pdf)
 
-[Методичка (многочлены)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichkaP22Polynomial.pdf)
+[Методичка (Многочлены)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichkaP22Polynomial.pdf)
 _________
 ## Практика
 
