@@ -10,6 +10,8 @@ ___________
 ___________
 ### Лекции
 [Лекции](https://github.com/Veldorn/SPbGTI/blob/main/Files/HistoryCS%26CH/Лекции%20.pdf)
+
+[Материалы для самостоятельной работы](https://github.com/Veldorn/SPbGTI/blob/main/Files/HistoryCS%26CH/Материалы%20для%20самостоятельной%20работы%20(Лекция).docx)
 ___________
 ### Практика
 [Семинары](https://github.com/Veldorn/SPbGTI/blob/main/Files/HistoryCS%26CH/Семинары.pdf)
