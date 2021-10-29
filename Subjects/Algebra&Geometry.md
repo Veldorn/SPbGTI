@@ -16,11 +16,11 @@ ___________
 [**Экзаменационные вопросы**](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/Билеты%20Алгебра.pdf)
 _________
 ## Лекции
-[Первая методичка(частичная)?](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/Методичка%201(частичная).pdf)
+[Первая методичка(частичная)? (Векторы)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/Методичка%201(частичная).pdf)
 
-[Вторая методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka2.pdf)
+[Вторая методичка (Векторное пространство векторов](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka2.pdf)
 
-[Третья методичка](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka3Full.pdf)
+[Третья методичка (Вещественное линейное пространство](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka3Full.pdf)
 
 [Методичка (комплексные числа)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichkaP21Complex.pdf)
 
