@@ -12,6 +12,14 @@ ___________
 ___________
 _________
 ### Лекции
+
+Материалы для самостоятельного изучения по теме Access:
+
+[Изучение Access](https://github.com/Veldorn/SPbGTI/blob/main/Files/ComputerScience/1_Изучение%20Access.doc)
+
+[Формирование и описание БД](https://github.com/Veldorn/SPbGTI/blob/main/Files/ComputerScience/2_%20Формирование%20и%20описание%20БД.doc)
+
+[Учеб. пособие (требования к оформлению отчетов)](https://github.com/Veldorn/SPbGTI/blob/main/Files/ComputerScience/Учеб.%20пособие_ТРЕБОВАНИЯ%20К%20ОФОРМЛЕНИЮ%20ВКР%20(4).pdf)
 ___________
 ### Практика
 
