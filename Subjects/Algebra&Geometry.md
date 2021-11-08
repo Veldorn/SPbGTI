@@ -32,6 +32,6 @@ _________
 
 [ИДЗ 1 (на 14.09)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/ИДЗ%201.pdf)
 
-[ИДЗ 2 (на 09.11)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/ИДЗ%202.pdf)
+[ИДЗ 2 (на 11.11)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/ИДЗ%202.pdf)
 __________
 
