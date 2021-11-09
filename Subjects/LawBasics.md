@@ -22,6 +22,8 @@ _________
 
 [Дз 4 (на 27.10)](https://github.com/Veldorn/SPbGTI/blob/main/Files/LawBasics/Право%20дз%204.jpg)
 
+[Дз 5 (на 10.11)](https://github.com/Veldorn/SPbGTI/blob/main/Files/LawBasics/Право%20дз%205.png)
+
 [Семинары](https://github.com/Veldorn/SPbGTI/blob/main/Files/LawBasics/Osnovy_prava_Seminary.pdf)
 
 [Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
