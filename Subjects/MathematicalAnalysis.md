@@ -28,6 +28,8 @@ _________
 [Пятая методичка (Неопределенный интеграл)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka5.pdf)
 
 [Шестая методичка (Интегрирование рациональных дробей)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka6.pdf)
+
+[Седьмая методичка (Свойства интегрируемых функций)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka7.pdf)
 _________
 ## Практика
 
