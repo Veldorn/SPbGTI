@@ -22,6 +22,8 @@ _________
 
 [Третья методичка (Вещественное линейное пространство)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka3Full.pdf)
 
+[Четвертая методичка (Матрицы)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka4.pdf)
+
 [Методичка (Комплексные числа)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichkaP21Complex.pdf)
 
 [Методичка (Многочлены)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichkaP22Polynomial.pdf)
