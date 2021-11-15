@@ -10,6 +10,8 @@ ___________
 
 Корниенко Иван Григорьевич
 
+Контакты: firstcourseprogrammingpractice@sapr.lti-gti.ru
+
 [**Экзаменационные вопросы**](https://github.com/Veldorn/SPbGTI/blob/main/Files/Programming/Экзаменационные%20вопросы.pdf)
 ___________
 ### Полезные ссылки
