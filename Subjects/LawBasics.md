@@ -11,6 +11,8 @@ _________
 ## Лекции
 
 [Лекции](https://github.com/Veldorn/SPbGTI/blob/main/Files/LawBasics/Osnovy_prava_Lekcii.pdf)
+
+[Задание для самостоятельной работы](https://github.com/Veldorn/SPbGTI/blob/main/Files/LawBasics/Право%20задание%20для%20самостоятельной%20работы.png)
 _________
 ## Практика
 
