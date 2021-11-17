@@ -37,5 +37,7 @@ _________
 
 [ИДЗ 1 на (11.11)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/ИДЗ%201.pdf)
 
+[Таблица дифференциалов](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/IMG_20211116_153228.jpg) 
+
 [Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
 ___________
