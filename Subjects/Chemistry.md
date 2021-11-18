@@ -21,10 +21,12 @@ _________
 
 [Дз 1 (на 23.09)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Chemistry/Химия%20дз%201.pdf)
 
-[Допуск к кр1 (на 7.10 и 21.10)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Chemistry/Химия%20допуск%20к%20кр1.jpg)
+[Дз 2/Допуск к кр1 (на 7.10 и 21.10)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Chemistry/Химия%20допуск%20к%20кр1.jpg)
 [Оценки за первую попытку кр1](https://github.com/Veldorn/SPbGTI/blob/main/Files/Chemistry/Химия%20оценки%20кр1%20п1.pdf) 
 
 Переписать кр1 можно понедельник/вторник на 4 паре (возможно не на каждой неделе)
+
+[Дз 3 (на 2.12)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Chemistry/Химия%20дз%203.pdf)
 
 [Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
 ___________
