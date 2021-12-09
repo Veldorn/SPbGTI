@@ -6,7 +6,7 @@ ___________
 
 Петров Игорь Владимирович
 
-[**Экзаменационные вопросы (временно отсутствуют)**]()
+[**Вопросы на зачет**](https://github.com/Veldorn/SPbGTI/blob/main/Files/LawBasics/VOPROSY_PO_PRAVU_ZAChYoT.docx)
 _________
 ## Лекции
 
