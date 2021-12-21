@@ -12,6 +12,7 @@ ___________
 
 Куратор курса: (89119776953) Клепиков Вячеслав Васильевич
 
+[Экзаменационные билеты](https://github.com/Veldorn/SPbGTI/blob/main/Files/Chemistry/TEMP_TRIM_1639982328316.jpeg.jpg) 
 _________
 ## Лекции
 
