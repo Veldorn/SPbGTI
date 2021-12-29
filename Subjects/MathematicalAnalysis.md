@@ -13,7 +13,7 @@ ___________
 * Среда - 1-4 пары
 * Четверг - 1-3 пары
 
-[**Экзаменационные вопросы**](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/Билеты%20Мат.%20Анал..pdf)
+[**Экзаменационные вопросы**](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/Матан%20вопросы%20к%20экзамену.pdf)
 _________
 ## Лекции
 
