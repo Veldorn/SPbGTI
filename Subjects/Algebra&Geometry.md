@@ -13,7 +13,7 @@ ___________
 * Среда - 1-4 пары
 * Четверг - 1-3 пары
 
-[**Экзаменационные вопросы**](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/Билеты%20Алгебра.pdf)
+[**Экзаменационные вопросы**](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/АлГем%20вопросы%20к%20экзамену.pdf)
 _________
 ## Лекции
 [Первая методичка(частичная)? (Векторы)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/Методичка%201(частичная).pdf)
