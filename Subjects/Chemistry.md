@@ -16,6 +16,7 @@ ___________
 _________
 ## Лекции
 
+[Лекции](https://github.com/Veldorn/SPbGTI/blob/main/Files/Chemistry/Лекции.gif)
 
 _________
 ## Практика
