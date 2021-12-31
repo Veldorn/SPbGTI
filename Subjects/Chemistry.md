@@ -29,6 +29,10 @@ _________
 
 [Дз 3 (на 2.12)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Chemistry/Химия%20дз%203.pdf)
 
+[С новым годом!](https://github.com/Veldorn/SPbGTI/blob/main/Files/ComputerScience/С%20новым%20годом.jpg)
+
+[Оценки](https://github.com/Veldorn/SPbGTI/blob/main/Files/Chemistry/Химия%20оценки.pdf)
+
 [Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
 ___________
 ## Лабораторные работы
