@@ -6,25 +6,25 @@
 
 |№| Понедельник | Вторник | Среда | Четверг | Пятница |
 | ----- | ------ |------ |------ |------ |------ |
-| 1. 9:30 - 11:10| **Л** [Безопасность жизнедеятельности](../../Subjects/SafetyOfVitalActivity.md) *215+* | **Л** [Физика](../../Subjects/Physics.md) *211*| **К/ПР** [с 13.04 ](#pr1) [Программирование](../../Subjects/Programming.md) *каф. САПРиУ* | **П** [Математический анализ](../../Subjects/MathematicalAnalysis.md) *7-118* | **Л/П** [Физическая культура](Subjects/PhysicalCulture.md) *каф. Физ. воспитания*|
-| 2. 11:30 - 13:10| **Л** [Математический анализ](../../Subjects/MathematicalAnalysis.md) *7-405* | **Л** [История](../../Subjects/History.md) *211* |  **Эл. курс** [Физическая культура](../../Subjects/PhysicalCulture.md) *каф. Физ. воспитания* | **Лаб** [Основы цифровой электроники](../../Subjects/BasicsOfDigitalElectronics.md) *э\т* | **П** [Информатика](Subjects/ComputerScience.md) *2 каф. САПРиУ*|
-| 3. 14:00 - 15:40| **Л/П** [Иностранный язык](https://t.me/joinchat/d1iGGmV8-5w3ZmZi) *7-228 каф. Ин.яз.* | **П** [Физика](../../Subjects/Physics.md) *ауд. физики №1* | **П** [Основы цифровой электроники](../../Subjects/BasicsOfDigitalElectronics.md) *э\т*| **Л** [Основы цифровой электроники](../../Subjects/BasicsOfDigitalElectronics.md) *7-401* | **Л** [Информатика](Subjects/ComputerScience.md) *Лекционный зал каф. САПРиУ*|
-| 4. 16:00 - 17:40 | **П** [Инженерная графика](../../Subjects/EngineeringGraphics.md) *каф. инж. проектирования* | | | **П** [История](../../Subjects/History.md) *7-254*| **Л/П** [Иностранный язык](https://t.me/joinchat/d1iGGmV8-5w3ZmZi) *7-228 каф. Ин.яз.*|
+| 1. 9:30 - 11:10| **Л** [Безопасность жизнедеятельности](../../Subjects/SafetyOfVitalActivity.md) *215+* | **Л** [Физика](../../Subjects/Physics.md) *211*| [с 13.04](#tag1) **К/ПР** [Программирование](../../Subjects/Programming.md) *каф. САПРиУ* | **П** [Математический анализ](../../Subjects/MathematicalAnalysis.md) *7-118* | **П** [Программирование](../../Subjects/Programming.md) *каф. САПРиУ* |
+| 2. 11:30 - 13:10| **Л** [Математический анализ](../../Subjects/MathematicalAnalysis.md) *7-405* | **Л** [История](../../Subjects/History.md) *211* |  **Эл. курс** [Физическая культура](../../Subjects/PhysicalCulture.md) *каф. Физ. воспитания* | **Лаб** [Основы цифровой электроники](../../Subjects/BasicsOfDigitalElectronics.md) *э\т* | [по 08.04](#tag2) **Л** [Инженерная графика](../../Subjects/EngineeringGraphics.md) *7-413* |
+| 3. 14:00 - 15:40| **Л/П** [Иностранный язык](https://t.me/joinchat/d1iGGmV8-5w3ZmZi) *7-228 каф. Ин.яз.* | **П** [Физика](../../Subjects/Physics.md) *ауд. физики №1* | **П** [Основы цифровой электроники](../../Subjects/BasicsOfDigitalElectronics.md) *э\т* | **Л** [Основы цифровой электроники](../../Subjects/BasicsOfDigitalElectronics.md) *7-401* | **?** [Инженерная графика](../../Subjects/EngineeringGraphics.md) *каф. инж. проектирования* |
+| 4. 16:00 - 17:40 | **?** [Инженерная графика](../../Subjects/EngineeringGraphics.md) *каф. инж. проектирования* | | | **П** [История](../../Subjects/History.md) *7-254*| |
 
 
 Чётная неделя (2, 4, 6, 8...)
 
 |№| Понедельник | Вторник | Среда | Четверг | Пятница |
 | ----- | ------ |------ |------ |------ |------ |
-| 1. 9:30 - 11:10| **Л** [История и перспективы развития информатики и вычислительной техники](Subjects/HistoryCS%26CH.md) *314* || **П** [Программирование](Subjects/Programming.md) *8 каф. САПРиУ* | **Л** [Программирование](Subjects/Programming.md) *Лекционный зал каф. САПРиУ* | **Л/П** [Физическая культура](Subjects/PhysicalCulture.md) *каф. Физ. воспитания*|
-| 2. 11:30 - 13:10| **Эл. курс** [Физическая культура](Subjects/PhysicalCulture.md) *каф. Физ. воспитания* | **Л** [Математический анализ](Subjects/MathematicalAnalysis.md) *7-413* |  **Л** [Алгебра и геометрия](Subjects/Algebra&Geometry.md) *7-413* | **Л/П** [Иностранный язык](https://t.me/joinchat/d1iGGmV8-5w3ZmZi) *7-228 каф. Ин.яз.* | **П** [Информатика](Subjects/ComputerScience.md) *2 каф. САПРиУ*|
-| 3. 14:00 - 15:40|**П** [История и перспективы развития информатики и вычислительной техники](Subjects/HistoryCS%26CH.md) *Лекционный зал каф. САПРиУ* | **П** [Математический анализ](Subjects/MathematicalAnalysis.md) *7-119* | **П** [Алгебра и геометрия](Subjects/Algebra&Geometry.md) *7-119*| **П** [Химия](Subjects/Chemistry.md) *12 каф. Физ. химии* | **Л** [Информатика](Subjects/ComputerScience.md) *Лекционный зал каф. САПРиУ*|
-| 4. 16:00 - 17:40 | | **Л** [Основы права](Subjects/LawBasics.md) *211* | | | |
+| 1. 9:30 - 11:10| **Л** [Безопасность жизнедеятельности](../../Subjects/SafetyOfVitalActivity.md) *215+* | **Л** [Физика](../../Subjects/Physics.md) *211*| **П** [Культура речи и деловое общение](../../Subjects/CultureOfSpeech&BusinessCommunication.md) *?* | **П** [Математический анализ](../../Subjects/MathematicalAnalysis.md) *7-118* | **П** [Программирование](../../Subjects/Programming.md) *каф. САПРиУ* |
+| 2. 11:30 - 13:10| **Л** [Математический анализ](../../Subjects/MathematicalAnalysis.md) *7-405* | **Л** [Программирование](../../Subjects/Programming.md) *Лекционный зал каф. САПРиУ* |  **Эл. курс** [Физическая культура](../../Subjects/PhysicalCulture.md) *каф. Физ. воспитания* | **Лаб** [Основы цифровой электроники](../../Subjects/BasicsOfDigitalElectronics.md) *э\т* | [по 08.04](#tag2) **Л** [Инженерная графика](../../Subjects/EngineeringGraphics.md) *7-413* |
+| 3. 14:00 - 15:40| **Л/П** [Иностранный язык](https://t.me/joinchat/d1iGGmV8-5w3ZmZi) *7-228 каф. Ин.яз.* | **Лаб** [Физика](../../Subjects/Physics.md) *каф. физики* | **П** [Безопасность жизнедеятельности](../../Subjects/SafetyOfVitalActivity.md) *?* | **Л** [Культура речи и деловое общение](../../Subjects/CultureOfSpeech&BusinessCommunication.md) *7-408* | **?** [Инженерная графика](../../Subjects/EngineeringGraphics.md) *каф. инж. проектирования* |
+| 4. 16:00 - 17:40 | | | | **П** [История](../../Subjects/History.md) *7-254*| **Эл. курс** [Физическая культура](../../Subjects/PhysicalCulture.md) *каф. Физ. воспитания* |
 
 
 
 ### Изменения расписания:
 
-<a name="pr1"></a> С 13.04 появится пара по программированию в 9:30 в среду на нечетной неделе
+<a name="tag1"></a> С 13.04 появится пара по программированию в 9:30 в среду на нечетной неделе
 
-С 15.04 по 20.05 появится пара по программированию в 11:30 в пятницу
+<a name="tag2"></a> С 15.04 по 20.05 появится пара по программированию в 11:30 в пятницу
