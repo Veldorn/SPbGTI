@@ -23,6 +23,7 @@ ________
 Учебная документация:
 * [Расписание занятий](Files/Documents/Timetable.md#Расписание)
 * [Список группы](Files/Documents/GroupList.md)
+* [Архив](Archive)
 
 Учебные ссылки:
 * [Сайт СПбГТИ](http://technolog.edu.ru/)
