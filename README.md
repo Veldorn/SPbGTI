@@ -13,7 +13,7 @@ ________
 * **=** [Безопасность жизнедеятельности](Subjects/SafetyOfVitalActivity.md)
 * **=** [Культура речи и деловое общение](Subjects/CultureOfSpeech&BusinessCommunication.md)
 * **=** [Иностранный язык](https://t.me/joinchat/d1iGGmV8-5w3ZmZi)
-* **=** [Физическая культура(Информация отсутствует)]()
+* **=** [Физическая культура(Информация отсутствует)](Subjects/PhysicalCulture.md)
 
 >*Легенда.*
 >* *Э Экзамен*
