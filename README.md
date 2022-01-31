@@ -6,11 +6,12 @@ ________
 
 * **Э** [Программирование](Subjects/Programming.md)
 * **Э** [Математический анализ](Subjects/MathematicalAnalysis.md)
-* **Э** [Алгебра и геометрия](Subjects/Algebra%26Geometry.md)
-* **Э** [Информатика](Subjects/ComputerScience.md)
-* **Э** [Химия](Subjects/Chemistry.md)
-* **=** [Основы права](Subjects/LawBasics.md)
-* **=** [История и перспективы развития информатики и вычислительной техники](Subjects/HistoryCS%26CH.md)
+* **Э** [Инженерная графика]()
+* **Э** [Физика]()
+* **Э** [Основы цифровой электроники]()
+* **Э** [История]()
+* **Э** [Безопасность жизнедеятельности]()
+* **Э** [Культура речи и деловое общение]()
 * **=** [Иностранный язык](https://t.me/joinchat/d1iGGmV8-5w3ZmZi)
 * **=** [Физическая культура(Информация отсутствует)]()
 
@@ -21,7 +22,6 @@ ________
 
 Учебная документация:
 * [Расписание занятий](Timetable.md#Расписание)
-* [Предворительное расписание сессии](session.pdf)
 * [Список группы](GroupList.md)
 
 Учебные ссылки:
@@ -29,4 +29,4 @@ ________
 * [Медиапортал СПбГТИ](https://media.technolog.edu.ru/index.php?lang=ru)
 * [Учебный план](http://technolog.edu.ru/sveden/files/09.03.01_2019_UP.pdf)
 * [Календарный учебный график](http://technolog.edu.ru/sveden/files/09.03.01_2019_SAPR_Grafik.pdf)
-* [Схема корпусов](http://technolog.edu.ru/contacts/karta.html)
+* [Схема корпусов](http://technolog.edu.ru/kontakti/karta_instituta)
