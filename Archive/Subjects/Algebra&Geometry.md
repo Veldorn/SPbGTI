@@ -13,27 +13,27 @@ ___________
 * Среда - 1-4 пары
 * Четверг - 1-3 пары
 
-[**Экзаменационные вопросы**](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/АлГем%20вопросы%20к%20экзамену.pdf)
+[**Экзаменационные вопросы**](../Files/Algebra%26Geometry/АлГем%20вопросы%20к%20экзамену.pdf)
 _________
 ## Лекции
-[Первая методичка(частичная)? (Векторы)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/Методичка%201(частичная).pdf)
+[Первая методичка(частичная)? (Векторы)](../Files/Algebra%26Geometry/Методичка%201(частичная).pdf)
 
-[Вторая методичка (Векторное пространство векторов)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka2.pdf)
+[Вторая методичка (Векторное пространство векторов)](../Files/Algebra%26Geometry/AlGemMetodichka2.pdf)
 
-[Третья методичка (Вещественное линейное пространство)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka3Full.pdf)
+[Третья методичка (Вещественное линейное пространство)](../Files/Algebra%26Geometry/AlGemMetodichka3Full.pdf)
 
-[Четвертая методичка (Матрицы)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichka4.pdf)
+[Четвертая методичка (Матрицы)](../Files/Algebra%26Geometry/AlGemMetodichka4.pdf)
 
-[Методичка (Комплексные числа)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichkaP21Complex.pdf)
+[Методичка (Комплексные числа)](../Files/Algebra%26Geometry/AlGemMetodichkaP21Complex.pdf)
 
-[Методичка (Многочлены)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/AlGemMetodichkaP22Polynomial.pdf)
+[Методичка (Многочлены)](../Files/Algebra%26Geometry/AlGemMetodichkaP22Polynomial.pdf)
 _________
 ## Практика
 
-[Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
+[Варианты](../Files/Documents/GroupList.md)
 
-[ИДЗ 1 (на 14.09)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/ИДЗ%201.pdf)
+[ИДЗ 1 (на 14.09)](../Files/Algebra%26Geometry/ИДЗ%201.pdf)
 
-[ИДЗ 2 (на 11.11)](https://github.com/Veldorn/SPbGTI/blob/main/Files/Algebra%26Geometry/ИДЗ%202.pdf)
+[ИДЗ 2 (на 11.11)](../Files/Algebra%26Geometry/ИДЗ%202.pdf)
 __________
 
