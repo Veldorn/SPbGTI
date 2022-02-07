@@ -1,43 +1,43 @@
 # Математический анализ
 ____________
-## 1 семестр
-___________
 **Преподаватель**
 
 Слободинская Татьяна Васильевна
+___________
+## 2 семестр
+___________
+### Лекции
 
-Ее расписание:
-
-* Понедельник - 4 пара
-* Вторник - 2-4 пары
-* Среда - 1-4 пары
-* Четверг - 1-3 пары
-
-[**Экзаменационные вопросы**](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/Матан%20вопросы%20к%20экзамену.pdf)
 _________
-## Лекции
-
-[Первая методичка (Основные понятия)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka1.pdf)
-
-[Вторая методичка (Односторонние пределы и непрерывность)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka2.pdf)
-
-[Третья методичка (Продолжение: Диффференцирование функции)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka3.pdf)
-
-[Четвертая методичка (Продолжение: Иследование функции и построение графика)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka4.pdf)
-
-[Пятая методичка (Неопределенный интеграл)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka5.pdf)
-
-[Шестая методичка (Интегрирование рациональных дробей)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka6.pdf)
-
-[Седьмая методичка (Свойства интегрируемых функций)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/MatanMetodichka7.pdf)
+### Практика
+___________
+## 1 семестр
+___________
+[**Экзаменационные вопросы**](../Files/MathematicalAnalysis/Матан%20вопросы%20к%20экзамену.pdf)
 _________
-## Практика
+### Лекции
 
-[Задачник](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/berman.pdf)
+[Первая методичка (Основные понятия)](../Files/MathematicalAnalysis/MatanMetodichka1.pdf)
 
-[ИДЗ 1 на (11.11)](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/ИДЗ%201.pdf)
+[Вторая методичка (Односторонние пределы и непрерывность)](../Files/MathematicalAnalysis/MatanMetodichka2.pdf)
 
-[Таблица дифференциалов](https://github.com/Veldorn/SPbGTI/blob/main/Files/MathematicalAnalysis/IMG_20211116_153228.jpg) 
+[Третья методичка (Продолжение: Диффференцирование функции)](../Files/MathematicalAnalysis/MatanMetodichka3.pdf)
 
-[Варианты](https://github.com/Veldorn/SPbGTI/blob/main/GroupList.md)
+[Четвертая методичка (Продолжение: Иследование функции и построение графика)](../Files/MathematicalAnalysis/MatanMetodichka4.pdf)
+
+[Пятая методичка (Неопределенный интеграл)](../Files/MathematicalAnalysis/MatanMetodichka5.pdf)
+
+[Шестая методичка (Интегрирование рациональных дробей)](../Files/MathematicalAnalysis/MatanMetodichka6.pdf)
+
+[Седьмая методичка (Свойства интегрируемых функций)](../Files/MathematicalAnalysis/MatanMetodichka7.pdf)
+_________
+### Практика
+
+[Задачник](../Files/MathematicalAnalysis/berman.pdf)
+
+[ИДЗ 1 на (11.11)](../Files/MathematicalAnalysis/ИДЗ%201.pdf)
+
+[Таблица дифференциалов](../Files/MathematicalAnalysis/IMG_20211116_153228.jpg) 
+
+[Варианты](../Files/Documents/GroupList.md)
 ___________
