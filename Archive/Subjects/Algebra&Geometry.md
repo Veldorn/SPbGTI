@@ -30,7 +30,7 @@ _________
 _________
 ## Практика
 
-[Варианты](../Files/Documents/GroupList.md)
+[Варианты](../Files/Documents/GroupList(1 sem).md)
 
 [ИДЗ 1 (на 14.09)](../Files/Algebra%26Geometry/ИДЗ%201.pdf)
 

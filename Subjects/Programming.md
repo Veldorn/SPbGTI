@@ -17,7 +17,7 @@ ___________
 ### Лабы
 [Типовые задания для курсового проекта](../Files/Programming/Курсовой%20проект%20(типовые%20задания).pdf)
 
-[Варианты](https://github.com/Veldorn/SPbGTI/blob/main/Archive/Files/Documents/GroupList.md)
+[Варианты](https://github.com/Veldorn/SPbGTI/blob/main/Archive/Files/Documents/GroupList(1 sem).md)
 
 
 ____________
@@ -78,7 +78,7 @@ _________
 ___________
 ### Лабы
 
-[Варианты](https://github.com/Veldorn/SPbGTI/blob/main/Archive/Files/Documents/GroupList.md)
+[Варианты](https://github.com/Veldorn/SPbGTI/blob/main/Archive/Files/Documents/GroupList(1 sem).md)
 
 [Контрольные работы](../Files/Programming/Kонтрольные_работы.pdf)
 
