@@ -14,3 +14,4 @@ ________
 Учебная документация:
 * [Расписание занятий](Files/Documents/Timetable.md#Расписание)
 * [Расписание сессии](Files/Documents/session.pdf)
+* [Список группы](Files/Documents/GroupList.md)
