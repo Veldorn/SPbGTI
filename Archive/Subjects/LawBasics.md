@@ -30,7 +30,7 @@ _________
 
 [Семинары](../Files/LawBasics/Osnovy_prava_Seminary.pdf)
 
-[Варианты](../Files/Documents/GroupList(1 sem).md)
+[Варианты](../Files/Documents/GroupList_1_sem.md)
 ___________
 ## Методические материалы
 

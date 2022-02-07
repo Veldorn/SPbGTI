@@ -21,8 +21,8 @@ ________
 
 
 Учебная документация:
-* [Расписание занятий](Files/Documents/Timetable(2 sem).md#Расписание)
-* [Список группы](Files/Documents/GroupList(2 sem).md)
+* [Расписание занятий](Files/Documents/Timetable_2_sem.md#Расписание)
+* [Список группы](Files/Documents/GroupList_2_sem.md)
 * [Архив](Archive)
 
 Учебные ссылки:

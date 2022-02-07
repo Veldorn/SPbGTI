@@ -12,6 +12,6 @@ ________
 * [История и перспективы развития информатики и вычислительной техники](Subjects/HistoryCS%26CH.md)
 
 Учебная документация:
-* [Расписание занятий](Files/Documents/Timetable(1 sem).md#Расписание)
-* [Расписание сессии](Files/Documents/session(1 sem).pdf)
-* [Список группы](Files/Documents/GroupList(1 sem).md)
+* [Расписание занятий](Files/Documents/Timetable_1_sem.md#Расписание)
+* [Расписание сессии](Files/Documents/session_1_sem.pdf)
+* [Список группы](Files/Documents/GroupList_1_sem.md)

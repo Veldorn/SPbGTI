@@ -10,7 +10,7 @@ ___________
 
 _________
 ### Практика
-[Варианты](../Files/Documents/GroupList(2 sem).md)
+[Варианты](../Files/Documents/GroupList_2_sem.md)
 ___________
 ## 1 семестр
 ___________
@@ -40,5 +40,5 @@ _________
 
 [Таблица дифференциалов](../Files/MathematicalAnalysis/IMG_20211116_153228.jpg) 
 
-[Варианты](https://github.com/Veldorn/SPbGTI/blob/main/Archive/Files/Documents/GroupList(1 sem).md)
+[Варианты](https://github.com/Veldorn/SPbGTI/blob/main/Archive/Files/Documents/GroupList_1_sem.md)
 ___________
