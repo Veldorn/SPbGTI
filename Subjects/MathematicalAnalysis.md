@@ -14,31 +14,31 @@ _________
 ___________
 ## 1 семестр
 ___________
-[**Экзаменационные вопросы**](../Files/MathematicalAnalysis/Матан%20вопросы%20к%20экзамену.pdf)
+[**Экзаменационные вопросы**](../Files/MathematicalAnalysis/sem%201/Матан%20вопросы%20к%20экзамену.pdf)
 _________
 ### Лекции
 
-[Первая методичка (Основные понятия)](../Files/MathematicalAnalysis/MatanMetodichka1.pdf)
+[Первая методичка (Основные понятия)](../Files/MathematicalAnalysis/sem%201/MatanMetodichka1.pdf)
 
-[Вторая методичка (Односторонние пределы и непрерывность)](../Files/MathematicalAnalysis/MatanMetodichka2.pdf)
+[Вторая методичка (Односторонние пределы и непрерывность)](../Files/MathematicalAnalysis/sem%201/MatanMetodichka2.pdf)
 
-[Третья методичка (Продолжение: Диффференцирование функции)](../Files/MathematicalAnalysis/MatanMetodichka3.pdf)
+[Третья методичка (Продолжение: Диффференцирование функции)](../Files/MathematicalAnalysis/sem%201/MatanMetodichka3.pdf)
 
-[Четвертая методичка (Продолжение: Иследование функции и построение графика)](../Files/MathematicalAnalysis/MatanMetodichka4.pdf)
+[Четвертая методичка (Продолжение: Иследование функции и построение графика)](../Files/MathematicalAnalysis/sem%201/MatanMetodichka4.pdf)
 
-[Пятая методичка (Неопределенный интеграл)](../Files/MathematicalAnalysis/MatanMetodichka5.pdf)
+[Пятая методичка (Неопределенный интеграл)](../Files/MathematicalAnalysis/sem%201/MatanMetodichka5.pdf)
 
-[Шестая методичка (Интегрирование рациональных дробей)](../Files/MathematicalAnalysis/MatanMetodichka6.pdf)
+[Шестая методичка (Интегрирование рациональных дробей)](../Files/MathematicalAnalysis/sem%201/MatanMetodichka6.pdf)
 
-[Седьмая методичка (Свойства интегрируемых функций)](../Files/MathematicalAnalysis/MatanMetodichka7.pdf)
+[Седьмая методичка (Свойства интегрируемых функций)](../Files/MathematicalAnalysis/sem%201/MatanMetodichka7.pdf)
 _________
 ### Практика
 
-[Задачник](../Files/MathematicalAnalysis/berman.pdf)
+[Задачник](../Files/MathematicalAnalysis/sem%201/berman.pdf)
 
-[ИДЗ 1 на (11.11)](../Files/MathematicalAnalysis/ИДЗ%201.pdf)
+[ИДЗ 1 на (11.11)](../Files/MathematicalAnalysis/sem%201/ИДЗ%201.pdf)
 
-[Таблица дифференциалов](../Files/MathematicalAnalysis/IMG_20211116_153228.jpg) 
+[Таблица дифференциалов](../Files/MathematicalAnalysis/sem%201/IMG_20211116_153228.jpg) 
 
 [Варианты](https://github.com/Veldorn/SPbGTI/blob/main/Archive/Files/Documents/GroupList_1_sem.md)
 ___________
