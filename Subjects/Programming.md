@@ -38,7 +38,7 @@ ___________
 ### Лабы
 [Контрольные работы](../Files/Programming/sem%202/Информационные_технологии_и_программирование_весна_2022.pdf)
 
-[Варианты(Актуальных вариантов еще нет)]()
+[Варианты(Актуальных вариантов еще нет)](../Files/Documents/GroupList_sem_2.md)
 
 
 ____________
@@ -100,7 +100,7 @@ _________
 ___________
 ### Лабы
 
-[Варианты](https://github.com/Veldorn/SPbGTI/blob/main/Archive/Files/Documents/GroupList_1_sem.md)
+[Варианты](https://github.com/Veldorn/SPbGTI/blob/main/Archive/Files/Documents/GroupList_sem_1.md)
 
 [Контрольные работы](../Files/Programming/sem%201/Kонтрольные_работы.pdf)
 

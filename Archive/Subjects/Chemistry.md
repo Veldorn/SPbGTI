@@ -34,7 +34,7 @@ _________
 
 [Оценки](../Files/Chemistry/Химия%20оценки.pdf)
 
-[Варианты](../Files/Documents/GroupList_1_sem.md)
+[Варианты](../Files/Documents/GroupList_sem_1.md)
 ___________
 ## Лабораторные работы
 
