@@ -14,4 +14,4 @@ _________
 ## Практика
 [Практический курс (Moodle)](https://dist.technolog.edu.ru/course/view.php?id=224)
 
-[Варианты](../Files/Documents/Variants_sem_2.md)
+[Варианты](../Files/SafetyOfVitalActivity/Variants_sem_2.md)
