@@ -10,7 +10,12 @@ ___________
 
 _________
 ### Практика
-[Варианты](../Files/Documents/GroupList_2_sem.md)
+
+[Задачник](../Files/MathematicalAnalysis/sem%201/berman.pdf)
+
+[ИДЗ 1](../Files/MathematicalAnalysis/sem%202/Матан_ИДЗ_1.pdf)
+
+[Варианты](../Files/MathematicalAnalysis/sem%202/Variants_sem_2.md)
 ___________
 ## 1 семестр
 ___________
