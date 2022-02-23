@@ -38,7 +38,9 @@ ___________
 ### Лабы
 [Контрольные работы](../Files/Programming/sem%202/Информационные_технологии_и_программирование_весна_2022.pdf)
 
-[Варианты(Актуальных вариантов еще нет)](../Files/Documents/GroupList_sem_2.md)
+[Варианты](../Files/Documents/GroupList_sem_2.md)
+
+[Пример реализации консольного меню](../Files/Programming/sem%202/SampleProject.rar)
 
 
 ____________
