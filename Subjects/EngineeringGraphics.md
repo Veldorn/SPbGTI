@@ -22,12 +22,10 @@ _________
 _________
 ## Практика
 
-[Задачи](http://old.technolog.edu.ru/faculties/mechanical/kafedry-3-fakulteta/kafedra-inzhenernogo-proektirovaniya/dokumenty.html)
+[Задачи](http://old.technolog.edu.ru/faculties/mechanical/kafedry-3-fakulteta/kafedra-inzhenernogo-proektirovaniya/dokumenty.html) [Варианты задач](../Files/Documents/GroupList_sem_2.md)
 
 [Домашнее задание](../Files/EngineeringGraphics/Domashnee_zadanie.zip)
 
 [Алгоритмы решения типовых задач часть 1](../Files/EngineeringGraphics/Алгоритмы%20решения%20типовых%20задач___1__2016_.pdf)
 
 [Алгоритмы решения типовых задач часть 2](../Files/EngineeringGraphics/Алгоритмы%20решения%20типовых%20задач___2__2015_.pdf)
-
-[Варианты](../Files/Documents/GroupList_sem_2.md)
