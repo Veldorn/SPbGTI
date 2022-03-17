@@ -24,7 +24,7 @@ _________
 
 [Задачи](http://old.technolog.edu.ru/faculties/mechanical/kafedry-3-fakulteta/kafedra-inzhenernogo-proektirovaniya/dokumenty.html) [Варианты задач](../Files/Documents/GroupList_sem_2.md)
 
-[Домашнее задание](../Files/EngineeringGraphics/Domashnee_zadanie.zip)
+[Домашнее задание](../Files/EngineeringGraphics/Domashnee_zadanie.zip) (2 задачи)
 
 [Алгоритмы решения типовых задач часть 1](../Files/EngineeringGraphics/Алгоритмы%20решения%20типовых%20задач___1__2016_.pdf)
 
