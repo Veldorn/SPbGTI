@@ -26,6 +26,8 @@ _________
 
 [Домашнее задание](../Files/EngineeringGraphics/Domashnee_zadanie.zip) (2 задачи)
 
+[Сборка по описанию](https://github.com/Veldorn/SPbGTI/blob/main/Files/EngineeringGraphics/___2022___PDF.zip) 
+
 [Алгоритмы решения типовых задач часть 1](../Files/EngineeringGraphics/Алгоритмы%20решения%20типовых%20задач___1__2016_.pdf)
 
 [Алгоритмы решения типовых задач часть 2](../Files/EngineeringGraphics/Алгоритмы%20решения%20типовых%20задач___2__2015_.pdf)
