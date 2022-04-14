@@ -17,6 +17,8 @@ _________
 
 [ИДЗ 2](../Files/MathematicalAnalysis/sem%202/Матан_ИДЗ_2.pdf)
 
+[ИДЗ 3](../Files/MathematicalAnalysis/sem%202/Матан_ИДЗ_3.pdf)
+
 [Варианты](../Files/MathematicalAnalysis/sem%202/Variants_sem_2.md)
 ___________
 ## 1 семестр
