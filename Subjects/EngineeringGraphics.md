@@ -29,6 +29,7 @@ _________
 [Сборка по описанию](../Files/EngineeringGraphics/___2022___PDF.zip) 
 
 [Резьбы и резьбовые соединения](../Files/EngineeringGraphics/Резьбы%20и%20резьбовые%20соединения.%20Задание.pdf)
+[Пособие](../Files/EngineeringGraphics/REZBOVYE_SOEDINENIYa_Uchebnoe_posobie_.pdf)
 
 [Алгоритмы решения типовых задач часть 1](../Files/EngineeringGraphics/Алгоритмы%20решения%20типовых%20задач___1__2016_.pdf)
 
