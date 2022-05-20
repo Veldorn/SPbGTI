@@ -52,7 +52,11 @@ ___________
 
 [Лекция 3](../Files/Programming/sem%202/Лекция%203.%20Функции%2C%20основы%20модульности.pdf)
 
+[Лекция 4](../Files/Programming/sem%202/Lektsia_4_OOP.pdf)
 
+[Лекция 5](../Files/Programming/sem%202/Lektsia_5_Nasledovanie.pdf)
+
+[Лекция 6](../Files/Programming/sem%202/Lektsia_6_STL.pdf)
 ____________
 ## 1 семестр
 ___________
