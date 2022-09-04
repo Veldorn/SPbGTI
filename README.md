@@ -28,6 +28,7 @@ ________
 Учебные ссылки:
 * [Сайт СПбГТИ](http://technolog.edu.ru/)
 * [Медиапортал СПбГТИ](https://media.technolog.edu.ru/index.php?lang=ru)
+* [Виртуальная среда обучения (Moodle)](https://dist.technolog.edu.ru/my/)
 * [Учебный план](http://technolog.edu.ru/sveden/files/09.03.01_2019_UP.pdf)
 * [Календарный учебный график](http://technolog.edu.ru/sveden/files/09.03.01_2019_SAPR_Grafik.pdf)
 * [Схема корпусов](http://technolog.edu.ru/kontakti/karta_instituta)
