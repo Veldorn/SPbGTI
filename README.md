@@ -4,14 +4,14 @@ ________
 
 Учебные дисциплины:
 
-* **Э** [Программирование](Subjects/Programming.md)
 * **Э** [Физика](Subjects/Physics.md)
-* **Э** [История](Subjects/History.md)
-* **=** [Математический анализ](Subjects/MathematicalAnalysis.md)
-* **=** [Инженерная графика](Subjects/EngineeringGraphics.md)
-* **=** [Основы цифровой электроники](Subjects/BasicsOfDigitalElectronics.md)
-* **=** [Безопасность жизнедеятельности](Subjects/SafetyOfVitalActivity.md)
-* **=** [Культура речи и деловое общение](Subjects/CultureOfSpeech&BusinessCommunication.md)
+* **Э** [Математический анализ](Subjects/MathematicalAnalysis.md)
+* **Э** [Вычислительные системы, сети и телекоммуникации](Subjects/ComputingSystemsNetworks&Telecommunications.md)
+* **Э** [Базы данных](Subjects/Databases.md)
+* **Э** [Философия](Subjects/Philosophy.md)
+* **=** [Дискретная математика](Subjects/DiscreteMath.md)
+* **=** [Разработка программных систем](Subjects/DevelopmentOfSoftwareSystems.md)
+* **=** [Теоретические основы химической технологии](Subjects/TheoreticalFoundationsOfChemicalTechnology.md)
 * **=** [Иностранный язык](https://t.me/joinchat/d1iGGmV8-5w3ZmZi)
 * **=** [Физическая культура(Информация отсутствует)](Subjects/PhysicalCulture.md)
 
@@ -21,8 +21,8 @@ ________
 
 
 Учебная документация:
-* [Расписание занятий](Files/Documents/Timetable_sem_2.md#Расписание)
-* [Список группы](Files/Documents/GroupList_sem_2.md)
+* [Расписание занятий](Files/Documents/Timetable_sem_3.md#Расписание)
+* [Список группы](Files/Documents/GroupList_sem_3.md)
 * [Архив](Archive)
 
 Учебные ссылки:
