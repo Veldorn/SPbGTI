@@ -1,5 +1,27 @@
 # Архив
 Здесь хранится информация по завершившимся учебным дисциплинам
+
+________
+
+## Семестр 2
+
+Учебные дисциплины:
+
+* **Э** [Программирование](Subjects/Programming.md)
+* **Э** [История](Subjects/History.md)
+* **=** [Инженерная графика](Subjects/EngineeringGraphics.md)
+* **=** [Основы цифровой электроники](Subjects/BasicsOfDigitalElectronics.md)
+* **=** [Безопасность жизнедеятельности](Subjects/SafetyOfVitalActivity.md)
+* **=** [Культура речи и деловое общение](Subjects/CultureOfSpeech&BusinessCommunication.md)
+
+>*Легенда.*
+>* *Э Экзамен*
+>* *= Зачет*
+
+
+Учебная документация:
+* [Расписание занятий](Files/Documents/Timetable_sem_2.md#Расписание)
+* [Список группы](Files/Documents/GroupList_sem_2.md)
 ________
 
 ## Семестр 1
