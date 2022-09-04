@@ -1,4 +1,4 @@
-## Семестр 2
+## Семестр 3
 
 ### Расписание
 
@@ -6,25 +6,18 @@
 
 |№| Понедельник | Вторник | Среда | Четверг | Пятница |
 | ----- | ------ |------ |------ |------ |------ |
-| 1. 9:30 - 11:10| **Л** [Безопасность жизнедеятельности](../../Subjects/SafetyOfVitalActivity.md) *215* | **Л** [Физика](../../Subjects/Physics.md) *211*| [с 13.04](#tag1) **К/ПР** [Программирование](../../Subjects/Programming.md) *каф. САПРиУ* | **П** [Математический анализ](../../Subjects/MathematicalAnalysis.md) *7-118* | **П** [Программирование](../../Subjects/Programming.md) *каф. САПРиУ* |
-| 2. 11:30 - 13:10| **Л** [Математический анализ](../../Subjects/MathematicalAnalysis.md) *7-413* | **Л** [История](../../Subjects/History.md) *211* |  **Эл. курс** [Физическая культура](../../Subjects/PhysicalCulture.md) *каф. Физ. воспитания* | **Лаб** [Основы цифровой электроники](../../Subjects/BasicsOfDigitalElectronics.md) *7-322* | [с 15.04](#tag2) **П** [Программирование](../../Subjects/Programming.md) *каф. САПРиУ* |
-| 3. 14:00 - 15:40| **Л/П** [Иностранный язык](https://t.me/joinchat/d1iGGmV8-5w3ZmZi) *7-228 каф. Ин.яз.* | **П** [Физика](../../Subjects/Physics.md) *ауд. физики №1* | **П** [Основы цифровой электроники](../../Subjects/BasicsOfDigitalElectronics.md) *7-322* | **Л** [Основы цифровой электроники](../../Subjects/BasicsOfDigitalElectronics.md) *7-401* | **П** [Инженерная графика](../../Subjects/EngineeringGraphics.md) *7-7 каф. инж. проектирования* |
-| 4. 16:00 - 17:40 | **П** [Инженерная графика](../../Subjects/EngineeringGraphics.md) *7-7 каф. инж. проектирования* | | | **П** [История](../../Subjects/History.md) *254*| |
-
+| 1. 9:30 - 11:10|  | **Л** [Философия](../..Subjects/Philosophy.md) *301* | **П** [Дискретная математика](../../Subjects/DiscreteMath.md) *каф. САиИТ* | **Л** [Математический анализ](../../Subjects/MathematicalAnalysis.md) *7-405* по 27.10 | **Л** [Разработка программных систем](../../Subjects/DevelopmentOfSoftwareSystems.md) *каф. САПРиУ* |
+| 2. 11:30 - 13:10| **Л** [Дискретная математика](../../Subjects/DiscreteMath.md) *каф. САиИТ* | **П** [Базы данных](../../Subjects/Databases.md) *каф. САПРиУ* |  **Эл. курс** [Физическая культура](../../Subjects/PhysicalCulture.md) *каф. Физ. воспитания* | **П** [Математический анализ](../../Subjects/MathematicalAnalysis.md) *7-119* | **П** [Теоретические основы химической технологии](../../Subjects/TheoreticalFoundationsOfChemicalTechnology.md) *209 каф. ОХТ*|
+| 3. 14:00 - 15:40| **Лаб** [Вычислительные системы, сети и телекоммуникации](../../Subjects/ComputingSystemsNetworks&Telecommunications.md) *каф. САПРиУ* | **Л** [Базы данных](../../Subjects/Databases.md) *каф. САПРиУ* | **Л** [Вычислительные системы, сети и телекоммуникации](../../Subjects/ComputingSystemsNetworks&Telecommunications.md) *каф. САПРиУ* | **П** [Физика](../../Subjects/Physics.md) *2 каф. Физики* | **Л/П** [Иностранный язык](https://t.me/joinchat/d1iGGmV8-5w3ZmZi) *7-228 каф. Ин.яз.* |
+| 4. 16:00 - 17:40 | | **П** [Разработка программных систем](../../Subjects/DevelopmentOfSoftwareSystems.md) *каф. САПРиУ* | **П** [Философия](../..Subjects/Philosophy.md) *257* | | |
 
 Чётная неделя (2, 4, 6, 8...)
 
 |№| Понедельник | Вторник | Среда | Четверг | Пятница |
 | ----- | ------ |------ |------ |------ |------ |
-| 1. 9:30 - 11:10| **Л** [Безопасность жизнедеятельности](../../Subjects/SafetyOfVitalActivity.md) *215* | **Л** [Физика](../../Subjects/Physics.md) *211*| **П** [Культура речи и деловое общение](../../Subjects/CultureOfSpeech&BusinessCommunication.md) *7-203* | **П** [Математический анализ](../../Subjects/MathematicalAnalysis.md) *7-118* | **П** [Программирование](../../Subjects/Programming.md) *каф. САПРиУ* |
-| 2. 11:30 - 13:10| **Л** [Математический анализ](../../Subjects/MathematicalAnalysis.md) *7-413* | **Л** [Программирование](../../Subjects/Programming.md) *Лекционный зал каф. САПРиУ* |  **Эл. курс** [Физическая культура](../../Subjects/PhysicalCulture.md) *каф. Физ. воспитания* | **Лаб** [Основы цифровой электроники](../../Subjects/BasicsOfDigitalElectronics.md) *7-322* | [с 15.04](#tag2) **П** [Программирование](../../Subjects/Programming.md) *каф. САПРиУ* |
-| 3. 14:00 - 15:40| **Л/П** [Иностранный язык](https://t.me/joinchat/d1iGGmV8-5w3ZmZi) *7-228 каф. Ин.яз.* | **Лаб** [Физика](../../Subjects/Physics.md) *каф. физики* | **П** [Безопасность жизнедеятельности](../../Subjects/SafetyOfVitalActivity.md) *205* | **Л** [Культура речи и деловое общение](../../Subjects/CultureOfSpeech&BusinessCommunication.md) *7-408* | **П** [Инженерная графика](../../Subjects/EngineeringGraphics.md) *7-7 каф. инж. проектирования* |
-| 4. 16:00 - 17:40 | | | | **П** [История](../../Subjects/History.md) *254*| **Эл. курс** [Физическая культура](../../Subjects/PhysicalCulture.md) *каф. Физ. воспитания* |
-
-
+| 1. 9:30 - 11:10| **Лаб** [Вычислительные системы, сети и телекоммуникации](../../Subjects/ComputingSystemsNetworks&Telecommunications.md) *каф. САПРиУ* | **Л** [Физика](../../Subjects/Physics.md) *211* | **П** [Дискретная математика](../../Subjects/DiscreteMath.md) *каф. САиИТ* | **Л** [Математический анализ](../../Subjects/MathematicalAnalysis.md) *7-405* по 27.10 |  |
+| 2. 11:30 - 13:10| **Эл. курс** [Физическая культура](../../Subjects/PhysicalCulture.md) *каф. Физ. воспитания* | **П** [Базы данных](../../Subjects/Databases.md) *каф. САПРиУ* |  **Эл. курс** [Физическая культура](../../Subjects/PhysicalCulture.md) *каф. Физ. воспитания* | **П** [Математический анализ](../../Subjects/MathematicalAnalysis.md) *7-119* | **П** [Теоретические основы химической технологии](../../Subjects/TheoreticalFoundationsOfChemicalTechnology.md) *209 каф. ОХТ* |
+| 3. 14:00 - 15:40| **Л** [Теоретические основы химической технологии](../../Subjects/TheoreticalFoundationsOfChemicalTechnology.md) *206* | **Л** [Базы данных](../../Subjects/Databases.md) *каф. САПРиУ* | **Л** [Вычислительные системы, сети и телекоммуникации](../../Subjects/ComputingSystemsNetworks&Telecommunications.md) *каф. САПРиУ* | **П** [Физика](../../Subjects/Physics.md) *2 каф. Физики* | **Л/П** [Иностранный язык](https://t.me/joinchat/d1iGGmV8-5w3ZmZi) *7-228 каф. Ин.яз.* |
+| 4. 16:00 - 17:40 | **Лаб** [Физика](../../Subjects/Physics.md) *каф. Физики* | **П** [Разработка программных систем](../../Subjects/DevelopmentOfSoftwareSystems.md) *каф. САПРиУ* | **П** [Философия](../..Subjects/Philosophy.md) *257* | | |
 
 ### Изменения расписания:
-
-<a name="tag1"></a> С 13.04 появится пара по программированию в 9:30 в среду на нечетной неделе
-
-<a name="tag2"></a> С 15.04 по 20.05 появится пара по программированию в 11:30 в пятницу
