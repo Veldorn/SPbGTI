@@ -1,16 +1,13 @@
-# Культура речи и деловое общение
+# Теоретические основы химической технологии
 ____________
-## 2 семестр
+## 3 семестр
 ___________
 **Преподаватель**
 
-Лекции: Соколов Александр Иванович
-
-Практика: Пономарева Александра Александровна ponomareva.teacher@yandex.ru
+Лаврищева Светлана Анатольевна
 
 _________
 ## Лекции
 _________
 ## Практика
-
-[Темы эссе](../Files/CultureOfSpeech%26BusinessCommunication/Темы_эссе.jpg) [Выбор вариантов](https://docs.google.com/spreadsheets/d/16YbBAFdkSLe8x6rQPhEuPjDzxTwk0gBmFFfS0Oba2rY/edit#gid=0)
+[Практический курс (Moodle)](https://dist.technolog.edu.ru/enrol/index.php?id=196)
