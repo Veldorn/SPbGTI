@@ -12,6 +12,10 @@ _________
 _________
 ### Лабы
 
+[Tool data modeler](https://disk.yandex.ru/d/sF1ltdDv0cJHHw)
+
+[MySQL](https://dev.mysql.com/downloads/)
+
 [Лабораторная работа 1](../Files/Databases/Лаб_1%20TDM.doc)
 
 [Лабораторная работа 2](../Files/Databases/Лабораторная_работа_MySQL.pdf) 
