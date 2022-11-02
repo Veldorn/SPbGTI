@@ -23,4 +23,4 @@ _________
 
 [Лабораторная работа 4 (карты Карно)](../Files/DiscreteMath/Карты%20Карно.pdf)
 
-[Варианты к 3-ей и 4-той лабораторным](../Files/Documents/GroupList_sem_3.md)
+[Варианты](../Files/Documents/GroupList_sem_3.md)
