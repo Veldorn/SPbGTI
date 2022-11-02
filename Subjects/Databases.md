@@ -9,15 +9,22 @@ ___________
 [Экзаменационные вопросы 2021](../Files/Databases/Экз_вопросы_по_%20дисц_БД_2021.pdf)
 _________
 ### Лекции
+[Введение в системы баз данных. Кристофер Дейт]()
+
+[Системы баз данных. Полный курс (2003). Гектор Гарсиа-Молина, Джеффри Ульман, Дженнифер Уидом]()
 _________
 ### Лабы
-
-[Tool data modeler](https://disk.yandex.ru/d/sF1ltdDv0cJHHw)
-
-[MySQL](https://dev.mysql.com/downloads/)
 
 [Лабораторная работа 1](../Files/Databases/Лаб_1%20TDM.doc)
 
 [Лабораторная работа 2](../Files/Databases/Лабораторная_работа_MySQL.pdf) 
 
 [Лабораторная работа 3](../Files/Databases/Лаб_3%20SQL.docx) 
+__________
+### Программы
+
+[Tool data modeler](https://disk.yandex.ru/d/sF1ltdDv0cJHHw)
+
+[MySQL](https://dev.mysql.com/downloads/)
+
+[Conemu](https://conemu.github.io/) (удобное приложение для работы в консоли)
