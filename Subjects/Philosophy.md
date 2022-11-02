@@ -11,3 +11,6 @@ _________
 ### Лекции
 _________
 ### Практика
+[Новая философская энциклопедия](https://iphlib.ru/library/collection/newphilenc/browse/CL1)
+
+[История философии в кратком изложении И. И. Богута](../Files/Philosophy/1997_hist_phil_kratk_izl.pdf)
