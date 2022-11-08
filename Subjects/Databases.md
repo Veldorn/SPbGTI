@@ -24,7 +24,7 @@ _________
 
 [Лабораторная работа 3](../Files/Databases/Лаб_3%20SQL.docx) 
 
-[Гайд по установке MySQL](../Files/Databases/GuideMySQL.md)
+[Гайд по установке MySQL из архива](../Files/Databases/GuideMySQL.md)
 __________
 ### Программы
 
