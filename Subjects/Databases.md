@@ -20,6 +20,8 @@ _________
 [Лабораторная работа 2](../Files/Databases/Лабораторная_работа_MySQL.pdf) (Вместо dbforge нужно использовать MySQL Workbench, а вместо LibreOffice - MS Access)
 
 [Лабораторная работа 3](../Files/Databases/Лаб_3%20SQL.docx) 
+
+[Гайд по установке MySQL](../Files/Databases/GuideMySQL.md)
 __________
 ### Программы
 
