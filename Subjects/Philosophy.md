@@ -17,6 +17,6 @@ _________
 
 [Философский словарь под ред И. Т. Фролова (пдф с поддержкой поиска по тексту)](../Files/Philosophy/Filosofskiy_slovar_searchable.pdf)
 
-[Новая философская энциклопедия](https://iphlib.ru/library/collection/newphilenc/browse/CL1)
+[Новая философская энциклопедия](https://gufo.me/dict/philosophy_encyclopedia)
 
 [История философии в кратком изложении И. И. Богута](../Files/Philosophy/1997_hist_phil_kratk_izl.pdf)
