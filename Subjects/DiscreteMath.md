@@ -23,4 +23,6 @@ _________
 
 [Лабораторная работа 4 (карты Карно)](../Files/DiscreteMath/Карты%20Карно.pdf)
 
+[Лабораторная работа 5 (алгебра отношений)](../Files/DiscreteMath/RelationshipAlgebra)
+
 [Варианты](../Files/Documents/GroupList_sem_3.md)
